@@ -1,6 +1,6 @@
 
 <h1>Canvas Loader</h1><br>
-
+v0.0.1
 <br>
 <center><img height="100px" width="100px"   src="img.png" /></center>
 1.Your Initialization
