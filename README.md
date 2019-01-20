@@ -6,7 +6,7 @@
 1.Your Initialization
 <div class="code" >
 <pre>
-1.Your Initialization
+
 var initialize = {
   id:"canvas-loader",
   top:100,
