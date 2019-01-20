@@ -1,4 +1,4 @@
-# canvas-loader
+
 <h1>Canvas Loader</h1><br>
 
 <br>
