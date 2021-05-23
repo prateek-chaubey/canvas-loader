@@ -2,11 +2,11 @@
 <h1>Canvas Loader</h1><br>
 v0.0.1
 <br>
-<center><img height="100px" width="100px"   src="img.png" /></center>
+<center><img align='center' height="100px" width="100px"   src="img.png" /></center>
 1.Your Initialization
 <div class="code" >
-<pre>
 
+```js
 var initialize = {
   id:"canvas-loader",
   top:100,
@@ -20,15 +20,18 @@ var initialize = {
   stroke:"green",
   percentage:88,
 };
-</pre>
+```
+
 </div>
 <br>
 2.Add Javascript
 <br>
 <div class="code" >
-<pre>
-&ltscript type="text/javascript" src="app.js" &gt&lt/script&gt
-&ltscript type="text/javascript" src="canvas-loader.js" &gt&lt/script&gt
-</pre>
+
+```html
+<script type="text/javascript" src="app.js" ></script>
+<script type="text/javascript" src="canvas-loader.js" ></script>
+```
+
 &copy; 2019-present PRATEEK CHAUBEY
 <br><br>
